@@ -2,4 +2,4 @@
 
 const currentUser = 'Sofia Ongele'
 const welcomeMessage = 'Welcome to Klossybook, ${currentUser}!'
-const excited
+const excitedWelcomeMessage = 0
